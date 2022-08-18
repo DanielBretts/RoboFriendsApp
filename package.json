@@ -1,10 +1,6 @@
 {
   "homepage": "http://DanielBretts.github.io/RoboFriendsApp",
   "name": "robofriends",
-<<<<<<< HEAD
-=======
-  "homepage": "https://DanielBretts.github.io/RoboFriendsApp",
->>>>>>> 570e6354eb640b024a6ba85ab5ab734fe6d63abc
   "version": "0.1.0",
   "private": true,
   "dependencies": {
